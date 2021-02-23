@@ -1,0 +1,8 @@
+* Jedi server protocol
+** installation 
+;(add-hook 'python-mode-hook 'jedi:setup)
+;(setq jedi:complete-on-dot t)
+** Autocompletion works and go to definition 
+   
+* LSP MS
+  
